@@ -2,7 +2,13 @@
 
 
 2023-2024 Eğitim Öğretim yılının 2.dönemine ait olan 22001 kodlu zorunlu stajımı Çerkezköy Organize Sanayi Bölgesinde tamamlamış olup 20 günlük staj boyunca geliştirdiğim Flutter kullanarak yemek sipariş uygulamamın kodları ekteki gibi olup bu uygulama :
+
+
+
 -Başlatıldığında üstte bir qr kod okuyucusu altta bir kart içerisinde gerekli textler olur 
+
+
+
 -Okumanın ardından masa numarasını parse eder ve son kısmını değişken olarak alır ve bundan yola çıkarak anasayafaya gider.
 
 
